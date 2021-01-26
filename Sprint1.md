@@ -23,3 +23,10 @@
 - merge : 두 개의 데이터프레임에서 공통된 부분을 찾아 그 부분을 중심으로 데이터를 이어붙이는 것 → sql의 join과 비슷
 - conditioning : 데이터 조합 시에 원하는 부분만 뽑아 이어 붙일 수 있도록 조건을 지정하는 과정 - 필터링 → isin, groupby 등을 이용
 - tidy한 데이터를 위해 melt 함수를 이용 → melt와 반대 역할 - pivot_table
+***
+**Day 4**
+
+**Data Visualization : 데이터 시각화**
+
+- matplotlib, seaborn 등의 라이브러리를 이용
+- 색상을 필요에 맞게 적절히 사용하는 것은 좋은 인사이트를 얻기 위해 중요한 점
