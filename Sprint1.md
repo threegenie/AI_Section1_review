@@ -5,12 +5,14 @@
 **EDA - Exploratory Data Analysis : 데이터 전처리** 
 
 데이터프레임 열과 행 내부의 데이터 편집, 결측치 대체 등
+***
 
 **Day 2**
 
 **Feature Engineering  : feature들을 재조합하여 새로운 feature를 만드는 과정**
 
 데이터프레임의 열과 행의 연산을 위해 데이터 타입을 통일하는 과정이 필요
+***
 
 **Day 3**
 
