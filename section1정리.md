@@ -55,15 +55,15 @@
 
 **Vectors and Matrics : 벡터와 행렬**
 
-벡터의 크기 : 모든 원소의 제곱을 더한 다음 루트를 씌운 값, ||v||
+- 벡터의 크기 : 모든 원소의 제곱을 더한 다음 루트를 씌운 값, ||v||
 
-벡터의 내적 : 각 구성요소를 곱한 뒤 합한 값, dot product
+- 벡터의 내적 : 각 구성요소를 곱한 뒤 합한 값, dot product
 
-매트릭스의 전치 : 행과 열을 바꾸는 것
+- 매트릭스의 전치 : 행과 열을 바꾸는 것
 
-정사각 매트릭스 = 정방 매트릭스 : 행과 열의 수가 동일한 매트릭스
+- 정사각 매트릭스 = 정방 매트릭스 : 행과 열의 수가 동일한 매트릭스
 
-행렬식 : det(A), 행렬식이 0인 경우 매트릭스의 행과 열이 선형 의존관계에 있음
+- 행렬식 : det(A), 행렬식이 0인 경우 매트릭스의 행과 열이 선형 의존관계에 있음
 
 **Linear Algebra : 선형대수**
 
@@ -82,17 +82,17 @@
 
 **Dimensionality Reduction Techniques : 차원 축소**
 
-Vector Transformation : 벡터 변환 - linear projection도 일종의 벡터 변환
+- Vector Transformation : 벡터 변환 - linear projection도 일종의 벡터 변환
 
-Eigenvectors : 고유벡터, 변환에 영향을 받지 않는 회전축, 변환이 일어난 이후에도 방향이 변하지 않는 영벡터가 아닌 벡터
+- Eigenvectors : 고유벡터, 변환에 영향을 받지 않는 회전축, 변환이 일어난 이후에도 방향이 변하지 않는 영벡터가 아닌 벡터
 
-Eigenvalue : 고유값, 고유벡터에 대응하는 고유의 스칼라값
+- Eigenvalue : 고유값, 고유벡터에 대응하는 고유의 스칼라값
 
-PCA(Principal Component Analysis) : 주성분 분석, 고차원의 데이터를 저차원의 데이터로 바꾸는 기법
+- PCA(Principal Component Analysis) : 주성분 분석, 고차원의 데이터를 저차원의 데이터로 바꾸는 기법
 
 
 **Clustering : 클러스터링**
 
-clustering : 주어진 데이터들이 얼마나, 어떻게 유사한지에 따라 그룹을 짓는 것. 다양한 알고리즘이 존재한다.
+- clustering : 주어진 데이터들이 얼마나, 어떻게 유사한지에 따라 그룹을 짓는 것. 다양한 알고리즘이 존재한다.
 
-k-means clustering : k개의 랜덤한 데이터를 cluster의 중심점으로 설정하고, 해당 cluster에 근접해 있는 데이터를 cluster로 할당한다. 그 후 변경된 cluster에 대해서 중심점을 새로 계산
+- k-means clustering : k개의 랜덤한 데이터를 cluster의 중심점으로 설정하고, 해당 cluster에 근접해 있는 데이터를 cluster로 할당한다. 그 후 변경된 cluster에 대해서 중심점을 새로 계산
